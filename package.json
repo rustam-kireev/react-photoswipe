@@ -22,7 +22,7 @@
   "dependencies": {
     "classnames": "^2.2.3",
     "lodash.pick": "^4.2.1",
-    "photoswipe": "^4.1.0"
+    "photoswipe": "rustam-kireev/PhotoSwipe"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.1",
